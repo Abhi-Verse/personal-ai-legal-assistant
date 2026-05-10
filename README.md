@@ -1,12 +1,4 @@
 # AI Legal Assistant With CREWAI
-
-## MCA Major Project (2025–2026)
-
-### Department of Computer Science
-Dr. Shakuntala Misra National Rehabilitation University, Lucknow
-
----
-
 # Project Overview
 
 AI Legal Assistant With CREWAI is an intelligent multi-agent system designed to help users understand legal problems in simple language. The system identifies applicable IPC sections, retrieves relevant legal precedents, and generates AI-based legal drafts.
