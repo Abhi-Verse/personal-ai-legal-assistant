@@ -100,16 +100,6 @@ streamlit run app.py
 
 ---
 
-# Future Enhancements
-
-- Migration from IPC to BNS
-- Hindi and regional language support
-- Explainable AI integration
-- Mobile application support
-- Advanced voice assistant
-
----
-
 # Limitations
 
 - Supports criminal law only
